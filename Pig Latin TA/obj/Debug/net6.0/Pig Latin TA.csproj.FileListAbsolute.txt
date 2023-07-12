@@ -1,0 +1,15 @@
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\bin\Debug\net6.0\Pig Latin TA.exe
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\bin\Debug\net6.0\Pig Latin TA.deps.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\bin\Debug\net6.0\Pig Latin TA.runtimeconfig.json
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\bin\Debug\net6.0\Pig Latin TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\bin\Debug\net6.0\Pig Latin TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\Pig Latin TA.csproj.AssemblyReference.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\Pig Latin TA.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\Pig Latin TA.AssemblyInfoInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\Pig Latin TA.AssemblyInfo.cs
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\Pig Latin TA.csproj.CoreCompileInputs.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\Pig Latin TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\refint\Pig Latin TA.dll
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\Pig Latin TA.pdb
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\Pig Latin TA.genruntimeconfig.cache
+C:\Users\Ethan\Desktop\Grand Circus\C# .net July 2023\Unit 2\Pig Latin TA\Pig Latin TA\obj\Debug\net6.0\ref\Pig Latin TA.dll
